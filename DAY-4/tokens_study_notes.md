@@ -286,6 +286,8 @@ This diagram illustrates the loop that occurs when you name your Python script `
 
 ---
 
+---
+
 ## Key Takeaways
 
 1. **LLMs only understand numbers**: Every prompt and response must pass through a tokenization translation layer because computers cannot natively interpret letters [3, 4, 47].
